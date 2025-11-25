@@ -1,6 +1,5 @@
 # unknowncheats-avatar-bypass
-
-Bypassing unknowncheats.me avatar restrictions.
+that's why you never trust client lol
 
 ---------------------
 
